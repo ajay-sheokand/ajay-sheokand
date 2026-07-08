@@ -40,7 +40,7 @@
 
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ajay-sheokand)](https://git.io/streak-stats)
-[![Ajay's GitHub stats](https://github-stats-extended.vercel.app/api?username=ajay-sheokand)](https://github.com/stats-organization/github-stats-extended)
+[![Ajay's GitHub stats](https://github-stats-extended.vercel.app/api?username=ajay-sheokand&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ### 📫 Connect
