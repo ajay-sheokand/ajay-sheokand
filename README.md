@@ -13,7 +13,7 @@
 ---
 
 ### 📄 Publications
-- **VISQAM** — a benchmark for Visual Question Answering on thematic maps · *GeoAI 2026 (oral)*
+- **VISQAM** — a benchmark for Visual Question Answering on thematic maps · *GeoAI 2026*
 - **Geosignature-based verification of photographs for AI-driven misinformation detection** · *COSIT 2026*
 
 ---
