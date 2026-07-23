@@ -1,54 +1,70 @@
-### Hey 👋 I'm Ajay Sheokand
-🌍 **Geoinformatics & Spatial Data Science** | 🤖 Spatial AI & Computer Vision | 📄 Published Researcher
+# 🌍 Ajay Sheokand | Geoinformatics & Spatial AI Researcher
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=900&lines=Geoinformatics+%26+Spatial+Data+Science;Sketch+Map+Analysis+%2B+Remote+Sensing;Multimodal+ML+%2B+Uncertainty+Quantification;Research+Assistant+%40+Spatial+Intelligence+Lab%2C+WWU+M%C3%BCnster)](https://git.io/typing-svg)
+
+## 🚀 About Me
+
+> ***"I turn spatial data — sketch maps, satellite imagery, sensor streams — into models that quantify what they don't know as carefully as what they do."***
+
+🧠 **Current Mission:** Building reliable, uncertainty-aware ML systems for spatial cognition and urban monitoring
+🛰️ **Research Focus:** Sketch map analysis, remote sensing, multimodal machine learning, conformal prediction
+🎓 **Base:** Institute for Geoinformatics (IFGI), WWU Münster, Germany
+🎯 **Long-term goal:** Research Scientist role at Google Research (Google AI Center Berlin)
+
+### 🏆 Highlights
+
+- 📄 **VISQAM @ GeoAI 2026 (oral, 2nd author)** — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
+- 📄 **Geosignature-based misinformation detection** — accepted at COSIT 2026
+- 🧪 Master's thesis: *Graceful Degradation under Sensor Dropout* — conformalized uncertainty quantification in a multimodal building digital twin
+- 🛠️ Engineering contributor to **SketchMapia-Microservices** at IFGI (feature dev, bug fixes, PRs merged upstream)
+
+## 🛠️ Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a1a)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)](https://opencv.org/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-Advanced-139C5A?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a)](https://geopandas.org/)
+[![QGIS](https://img.shields.io/badge/QGIS-Advanced-589632?style=for-the-badge&logo=qgis&logoColor=white&labelColor=1a1a1a)](https://qgis.org/)
+[![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a)](https://www.djangoproject.com/)
+[![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)](https://www.docker.com/)
+
+### 🧠 Research Specializations
+
+[![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-Sentinel--1%2F2-4CAF50?style=for-the-badge&labelColor=1a1a1a)]()
+[![GNNs](https://img.shields.io/badge/Graph_Neural_Nets-ST--GNN-8A2BE2?style=for-the-badge&labelColor=1a1a1a)]()
+[![Uncertainty Quantification](https://img.shields.io/badge/Uncertainty_Quantification-Conformal_Prediction-FF6B6B?style=for-the-badge&labelColor=1a1a1a)]()
+[![Multimodal ML](https://img.shields.io/badge/Multimodal_ML-Sensor_Fusion-1E90FF?style=for-the-badge&labelColor=1a1a1a)]()
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Sketch_Maps-FF7A00?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a1a1a)]()
+
+## 🎯 Core Focus Areas
+
+| 🗺️ Sketch Map Analysis | 🛰️ Remote Sensing | 📊 Uncertainty Quantification |
+|---|---|---|
+| VQA on thematic/geographic maps, geosignature misinformation detection | Sentinel-1 SAR + Sentinel-2 optical fusion for urban monitoring (Delhi) | Conformal prediction, sensor-dropout robustness in digital twins |
+
+## 🌟 Featured Work
+
+#### 🗺️ [GMDA-Feature](https://github.com/ajay-sheokand/GMDA-Feature)
+> A new feature for the SketchMapia software, based on Aaron L. Gardony's research on bi-dimensional regression.
+**Stack:** `JavaScript`
+
+#### 🌆 [Delhi-Urban-Heat](https://github.com/ajay-sheokand/Delhi-Urban-Heat)
+> Urban heat analysis for Delhi using remote sensing data.
+**Stack:** `Python`
+
+#### 🧩 SketchMapia-Microservices *(internship, IFGI)*
+> Feature development and engineering on a microservice-based sketch-map analysis platform — extended results tables, added CSV export, integrated collaborator features, merged via fork-based PR.
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ajay-sheokand)
+
+## 📈 GitHub Stats
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajay-sheokand&theme=tokyonight)](https://github.com/ajay-sheokand)
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-sheokand&theme=tokyonight)](https://github.com/ajay-sheokand)
 
 ---
-
-### 🧑‍💻 About Me
-- 🎓 Master's student in Geoinformatics & Spatial Data Science @ WWU Münster
-- 🔬 Research Assistant/Intern @ IFGI Spatial Intelligence Lab
-- 🗺️ Working on sketch map analysis, remote sensing, and multimodal ML with uncertainty quantification
-- 📄 Published at GeoAI 2026 and COSIT 2026
-- 🎯 Long-term goal: Research career
-
----
-
-### 📄 Publications
-- **VISQAM** — a benchmark for Visual Question Answering on thematic maps · *GeoAI 2026*
-- **Geosignature-based verification of photographs for AI-driven misinformation detection** · *COSIT 2026*
-
----
-
-### 🛠️ Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-- 🗺️ [**GMDA-Feature**](https://github.com/ajay-sheokand/GMDA-Feature) — GeoJSON-based sketch map analyzer for SketchMapia
-- 🛰️ **Delhi Urban Dynamics** — Sentinel-1/Sentinel-2 fusion for SAR + optical urban monitoring
-- 🏢 **Multimodal Building Digital Twin** — conformalized uncertainty quantification under sensor dropout (Master's thesis) - under development
-
----
-
-### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ajay-sheokand)](https://git.io/streak-stats)
-[![Ajay's GitHub stats](https://github-stats-extended.vercel.app/api?username=ajay-sheokand&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
----
-
-### 📫 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-ajay--sheokand-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay-sheokand)
-<!-- Add LinkedIn / website badges here, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourname)
--->
-
----
-
-> *"Every map tells a story — I build the tools to read it."* 🗺️
+🎯 *Focusing on spatial AI research, one sketch map and satellite tile at a time.*
