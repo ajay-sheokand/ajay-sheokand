@@ -13,7 +13,7 @@
 
 ### 🏆 Highlights
 
-- 📄 **VISQAM @ GeoAI 2026 (oral, 2nd author)** — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
+- 📄 **VISQAM @ GeoAI 2026** — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
 - 📄 **Geosignature-based misinformation detection** — accepted at COSIT 2026
 
 ## 🛠️ Tech Stack
