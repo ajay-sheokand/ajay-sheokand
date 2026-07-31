@@ -7,9 +7,13 @@
 > ***"I turn spatial data — sketch maps, satellite imagery, sensor streams — into models that quantify what they don't know as carefully as what they do."***
 
 🧠 **Current Mission:** Building reliable, uncertainty-aware ML systems for spatial cognition and urban monitoring
+
 🛰️ **Research Focus:** Sketch map analysis, remote sensing, multimodal machine learning, conformal prediction
+
 🎓 **Base:** Institute for Geoinformatics (IFGI), WWU Münster, Germany
+
 🎯 **Long-term goal:** Research Scientist
+
 
 ### 🏆 Highlights
 
