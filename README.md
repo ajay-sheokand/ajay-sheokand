@@ -9,7 +9,7 @@
 🧠 **Current Mission:** Building reliable, uncertainty-aware ML systems for spatial cognition and urban monitoring
 🛰️ **Research Focus:** Sketch map analysis, remote sensing, multimodal machine learning, conformal prediction
 🎓 **Base:** Institute for Geoinformatics (IFGI), WWU Münster, Germany
-🎯 **Long-term goal:** Research Scientist role at Google Research (Google AI Center Berlin)
+🎯 **Long-term goal:** Research Scientist
 
 ### 🏆 Highlights
 
