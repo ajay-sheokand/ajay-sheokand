@@ -58,9 +58,8 @@
 > Urban heat analysis for Delhi using remote sensing data.
 **Stack:** `Python`
 
-#### 🧩 SketchMapia-Microservices *(internship, IFGI)*
+#### 🧩 [SketchMapia-Microservices](https://github.com/ifgi-sil/SketchMapia-Microservices) *(internship, IFGI)*
 > Feature development and engineering on a microservice-based sketch-map analysis platform — extended results tables, added CSV export, integrated collaborator features, merged via fork-based PR.
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/)
