@@ -20,8 +20,8 @@
 
 ### 🏆 Highlights
 
-- 📄 **VISQAM @ GeoAI 2026** — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
-- 📄 **Geosignature-based misinformation detection** — accepted at COSIT 2026
+- 📄 [**VISQAM @ GeoAI 2026**](https://zenodo.org/records/20273245) — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
+- 📄 [**GeoSignature-based misinformation detection**](https://zenodo.org/records/21725226) — accepted at COSIT 2026
 
 ## 🛠️ Tech Stack
 
