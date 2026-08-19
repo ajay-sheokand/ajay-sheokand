@@ -4,8 +4,6 @@
 
 ## 🚀 About Me
 
-> ***"I turn spatial data — sketch maps, satellite imagery, sensor streams — into models that quantify what they don't know as carefully as what they do."***
-
 🧠 **Current Mission:** Building reliable, uncertainty-aware ML systems for spatial cognition and urban monitoring
 
 
@@ -15,10 +13,8 @@
 🎓 **Base:** Institute for Geoinformatics (IFGI), WWU Münster, Germany
 
 
-🎯 **Long-term goal:** Research Scientist
 
-
-### 🏆 Highlights
+### 🏆 Publications
 
 - 📄 [**Introducing the VISQAM Dataset: Toward Automated Map Interpretation @ GeoAI 2026**](https://zenodo.org/records/20273245) — benchmark of 1,200 annotated thematic maps, 4,594 QA pairs; fine-tuning lifted BERTScore-F1 from 0.43 → 0.72
 - 📄 [**An approach for verifying terrestrial photographs via geosignatures**](https://zenodo.org/records/21725226) — accepted at COSIT 2026
@@ -71,4 +67,3 @@
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajay-sheokand&theme=tokyonight)](https://github.com/ajay-sheokand)
 
 ---
-🎯 *Focusing on spatial AI research, one sketch map and satellite tile at a time.*
